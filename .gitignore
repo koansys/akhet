@@ -1,0 +1,9 @@
+.coverage
+Akhet.egg-info
+*.egg
+*.pyc
+build/
+dist/
+docs/_build/
+env26/
+.tox/

@@ -107,6 +107,10 @@ sys.path.append(os.path.abspath('_themes'))
 html_theme_path = ['_themes']
 html_theme = 'pyramid'
 
+html_theme_options = {
+    'github_url': 'https://github.com/Pylons/akhet'
+}
+
 #html_theme = 'default'
 
 # Theme options are theme-specific and customize the look and feel of a theme
